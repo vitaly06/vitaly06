@@ -40,7 +40,12 @@
 
 ## 📊 GitHub статистика
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitaly06&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=vitaly06&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=vitaly06&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-wheat-delta.vercel.app?user=vitaly06&theme=default&hide_border=true">
+  </picture>
+  <br> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaly06&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
